@@ -114,7 +114,7 @@ class App(tk.Tk):
         top.pack(fill="x")
         ttk.Button(top, text="Открыть VFONT…", command=self.open_file).pack(side="left")
         ttk.Button(top, text="Открыть оригинал для сравнения…", command=self.open_reference).pack(side="left", padx=6)
-        ttk.Button(top, text="Сохранить как…", command=self.save_as).pack(side="left", padx=6)
+        ttk.Button(top, text="нить как…", command=self.save_as).pack(side="left", padx=6)
         self.file_label = ttk.Label(top, text="Файл не открыт")
         self.file_label.pack(side="left", padx=12)
 
@@ -322,7 +322,7 @@ class App(tk.Tk):
         if not path: return
         try:
             self.doc.save(path)
-            messagebox.showinfo("Сохранено",f"Файл записан:\n{path}\n\nИсходный файл не изменён.")
+            messagebox.showinfo("Сохранено",f"Файл записан:\n{path}\n\n")
         except Exception as e:
             messagebox.showerror("Ошибка сохранения",str(e))
 
