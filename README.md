@@ -8,6 +8,7 @@ container used by Forza Horizon 2.**
 
 **Анализ проведён при помощи ChatGPT, я не программист и не смогу помочь вам с какими-либо вопросами.**
 
+
 This repository documents the binary structure observed in original
 Forza Horizon 2 font files and the practical rules established while
 inspecting and testing them.
