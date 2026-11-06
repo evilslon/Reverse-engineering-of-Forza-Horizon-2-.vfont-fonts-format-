@@ -10,20 +10,6 @@ inspecting and testing them.
 > **Scope:** Forza Horizon 2 only. Do not assume that this specification
 > applies to `.vfont` files from other Forza titles.
 
-## Documentation
-
-The specification is available in both languages:
-
-  ------------------------------------------------------------------------------------------------------------------------
-  Language                Markdown                                      Word document
-  ----------------------- --------------------------------------------- --------------------------------------------------
-  English                 [FH2 VFONT Format Specification               [DOCX
-                          (EN)](FH2_VFONT_Format_Specification_EN.md)   version](FH2_VFONT_Format_Specification_EN.docx)
-
-  Русский                 [Спецификация формата FH2 VFONT               [Версия
-                          (RU)](FH2_VFONT_Format_Specification_RU.md)   DOCX](FH2_VFONT_Format_Specification_RU.docx)
-  ------------------------------------------------------------------------------------------------------------------------
-
 ## What is documented
 
 The specification describes the `.vfont` files found in
@@ -97,20 +83,6 @@ related names are trademarks of their respective owners.
 
 > **Область действия:** только Forza Horizon 2. Не следует считать, что
 > эта спецификация подходит для `.vfont` из других игр серии Forza.
-
-## Документация
-
-Спецификация доступна на двух языках:
-
-  ------------------------------------------------------------------------------------------------------------------------
-  Язык                    Markdown                                      Документ Word
-  ----------------------- --------------------------------------------- --------------------------------------------------
-  English                 [FH2 VFONT Format Specification               [DOCX
-                          (EN)](FH2_VFONT_Format_Specification_EN.md)   version](FH2_VFONT_Format_Specification_EN.docx)
-
-  Русский                 [Спецификация формата FH2 VFONT               [Версия
-                          (RU)](FH2_VFONT_Format_Specification_RU.md)   DOCX](FH2_VFONT_Format_Specification_RU.docx)
-  ------------------------------------------------------------------------------------------------------------------------
 
 ## Что описано
 
